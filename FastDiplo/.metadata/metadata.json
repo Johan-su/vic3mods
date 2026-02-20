@@ -1,0 +1,13 @@
+  {
+    "name" : "FastDiplo",
+    "id" : "com.github.myfastdiplomod",
+    "version" : "1.0",
+    "game_id" : "victoria3",
+    "supported_game_version" : "1.12.*",
+    "short_description" : "Best mod!",    
+    "tags" : ["fix"],
+    "relationships" : [],                 
+    "game_custom_data" : {
+      "multiplayer_synchronized" : true
+    }
+  }
